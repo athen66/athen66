@@ -5,8 +5,7 @@ Hi there 👋! I am Christopher Taylor.
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/perl-programming-language.svg" alt="Perl Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/perl-programming-language.svg" alt="Perl Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Ubuntu Logo" width="50" height="50"/> 
 
 ---
 
