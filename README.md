@@ -2,9 +2,9 @@
 
 A full-stack **software engineer** specializing in UNIX based developemnt. Professional experience with all technologies listed below.
 
-- 🔭 I’m currently working on **...**
-- 🌱 I’m currently learning **...**
-- 
+- 🔭 I’m currently working on **Google API Development**
+- 🌱 I’m currently learning **Rust**
+
 ---
 
 🧰 Toolbox
