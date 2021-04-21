@@ -1,5 +1,7 @@
 Hi there 👋! I am Christopher Taylor.
 
+A full-stack software engineer specializing in UNIX based developemnt. Professional experience with all technologies listed below.
+
 
 ---
 
@@ -9,6 +11,12 @@ Hi there 👋! I am Christopher Taylor.
 <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="NPM Logo" width="50" height="50"/> 
 
 ---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athen66&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=athen66&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
