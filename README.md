@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I am Christopher Taylor.
 
-A full-stack **software engineer** specializing in UNIX based developemnt. Professional experience with all technologies listed below.
+A full-stack **software engineer** specializing in UNIX based development. Professional experience with all technologies listed below.
 
 - 🔭 I’m currently working on **Google API Development**
 - 🌱 I’m currently learning **Rust**
