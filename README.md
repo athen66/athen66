@@ -2,8 +2,8 @@
 
 A full-stack **software engineer** specializing in UNIX based development. Professional experience with all technologies listed below.
 
-- 🔭 I’m currently working on **Google API Development**
-- 🌱 I’m currently learning **Rust**
+- 🔭  I’m currently working on **Google API Development**
+- 🌱  I’m currently learning **Rust**
 
 ---
 
