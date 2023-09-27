@@ -18,9 +18,6 @@ A full-stack **software engineer** specializing in UNIX based development. Profe
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athen66&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=athen66&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-
-
 <!--
 **athen66/athen66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
